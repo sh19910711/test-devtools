@@ -1,0 +1,10 @@
+{
+  "name": "test-devtools",
+  "version": "1.2.3",
+  "manifest_version": 2,
+  "permissions": [
+    "http://*/",
+    "https://*/"
+  ],
+  "devtools_page": "html/devtools.html"
+}
